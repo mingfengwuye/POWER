@@ -41,6 +41,9 @@ https://www.suse.com/zh-cn/products/server/download/
 Fedora for POWER
 https://alt.fedoraproject.org/alt/
 
+Fedora epel
+https://dl.fedoraproject.org/pub/epel/7Server/ppc64le/repodata/
+
 
 
 ##########################################################

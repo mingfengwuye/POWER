@@ -23,9 +23,11 @@ https://github.com/openbmc/openbmc
 
 
 ################################################################
+
 CentOS 7.3 for POWER
 1、CentOS official site
    http://mirror.centos.org/altarch/7.3.1611/isos/ppc64le/
+   
 2、清华大学同步镜像
    https://mirrors.tuna.tsinghua.edu.cn/centos-altarch/7.3.1611/isos/ppc64le/
 

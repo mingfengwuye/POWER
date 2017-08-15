@@ -1,4 +1,4 @@
-# POWER or OpenPOWER Software Collection#
+# POWER or OpenPOWER Software Collection
 [IBM portal for OpenPOWER](https://www-355.ibm.com/systems/power/openpower/)
 
 [Firmware](https://github.com/open-power)
@@ -17,7 +17,7 @@
 
 [CAPI](https://github.com/ibm-capi)
 
-## powerlinux(OS) ##
+## Powerlinux(OS) ##
 - [CentOS official site](http://mirror.centos.org/altarch/7.3.1611/isos/ppc64le/)
 - [CentOS清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/centos-altarch/7.3.1611/isos/ppc64le/)
 - [Ubuntu](http://www.ubuntu.org.cn/download/server/power8)

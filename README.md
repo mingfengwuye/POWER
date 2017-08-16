@@ -22,6 +22,7 @@
 - [CentOS清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/centos-altarch/7.3.1611/isos/ppc64le/)
 - [Ubuntu](http://www.ubuntu.org.cn/download/server/power8)
 - [SUSE](https://www.suse.com/zh-cn/products/server/download/)
+- [OpenSUSE](https://software.opensuse.org/distributions/leap/ports)
 - [Fedora](https://alt.fedoraproject.org/alt/)
 - [Fedora epel](https://dl.fedoraproject.org/pub/epel/7Server/ppc64le/repodata/)
 - [POWERKVM](http://public.dhe.ibm.com/software/server/POWER/Linux/powerkvm/)

@@ -17,6 +17,8 @@
 
 [CAPI](https://github.com/ibm-capi)
 
+[xCAT Clusters Management](http://xcat-docs.readthedocs.io/en/stable/guides/admin-guides/manage_clusters/index.html)
+
 ## Powerlinux(OS) ##
 - [CentOS official site](http://mirror.centos.org/altarch/7.3.1611/isos/ppc64le/)
 - [CentOS清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/centos-altarch/7.3.1611/isos/ppc64le/)
